@@ -1,16 +1,12 @@
-# calculator_app
+# Rohan calculator_app
 
-A new Flutter project.
+## Output Screenshots
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Alt text](lib/assets/Screenshot_20241210_165325.png?raw=true "Simple Addition")
 
-A few resources to get you started if this is your first Flutter project:
+![Alt text](lib/assets/Screenshot_20241210_165333.png?raw=true "Simple Addition result")
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Alt text](lib/assets/Screenshot_20241210_165346.png?raw=true "Complex Calculation")
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Alt text](lib/assets/Screenshot_20241210_165350.png?raw=true "Complex Calculation result")
